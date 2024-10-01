@@ -3,7 +3,8 @@
     "name": "Soot",
     "organization": "Jacob Yard",
     "description": "Like the black, powdery substance soot, this theme envelops your code editor in a deep, rich darkness, providing a stark yet elegant backdrop. This theme settles into your workspace, creating a minimalistic, modern environment. The transparent panels enhance the sleek aesthetic, keeping your focus on the code while subtly displaying the color from your desktop wallpaper.",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "bugs": "https://github.com/jacobyard/Soot.novaextension/issues",
     "repository": "https://github.com/jacobyard/Soot.novaextension",
     "categories": ["themes"]
     
