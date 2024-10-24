@@ -94,7 +94,7 @@ meta.text.invisible {
     color: hsla(210, 100%, 90%, 0.15);
 }
 meta.text.selected {
-    background-color: hsla(0, 0%, 100%, 0.081);
+    background-color: color(display-p3 0.635 0.776 0.91 / 0.248);
 }
 
 /* Cursor */
